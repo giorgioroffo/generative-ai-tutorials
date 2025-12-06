@@ -26,16 +26,17 @@ References:
 For foundational work on attention mechanisms and transformers:
 
 [1] Roffo, G. (2025). Timeline of Key Developments in Affinity-Based Attention.
-    arXiv preprint. https://arxiv.org/abs/[to be added]
+    arXiv preprint. https://arxiv.org/abs/[arXiv ID]
 
 [2] Roffo, G. (2025). A Survey of Large Language Models: Foundations and Future Directions.
-    arXiv preprint. https://arxiv.org/abs/[to be added]
+    arXiv preprint. https://arxiv.org/abs/[arXiv ID]
 
 [3] Roffo, G. (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Feature 
     Selection and the Emergence of Self-Attention. arXiv preprint arXiv:2507.14560.
+    https://arxiv.org/abs/2507.14560
 
 [4] Roffo, G. (2024). Exploring Advanced Large Language Models with LLMSuite.
-    arXiv preprint arXiv:2407.12036.
+    arXiv preprint arXiv:2407.12036. https://arxiv.org/abs/2407.12036
 
 For the models used:
 - Llama 3.1: Meta AI (2024). Llama 3.1 Model Card.

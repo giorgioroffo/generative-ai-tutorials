@@ -223,7 +223,7 @@ If you use this tutorial in your research or find it helpful, please cite the fo
   year = {2024},
   eprint = {2407.12036},
   archivePrefix = {arXiv},
-  primaryClass = {cs.LG},
+  primaryClass = {cs.CL},
   url = {https://arxiv.org/abs/2407.12036}
 }
 ```
