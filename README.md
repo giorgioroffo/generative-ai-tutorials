@@ -216,15 +216,11 @@ If you use this tutorial in your research or find it helpful, please cite the fo
 
 **Text citations:**
 
-Roffo, G. (2025). Timeline of Key Developments in Affinity-Based Attention. arXiv preprint. https://arxiv.org/abs/[arXiv ID]
-
-Roffo, G. (2025). A Survey of Large Language Models: Foundations and Future Directions. arXiv preprint. https://arxiv.org/abs/[arXiv ID]
-
-Roffo, G. (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention. arXiv preprint arXiv:2507.14560. https://arxiv.org/abs/2507.14560
-
-Roffo, G. (2024). Exploring Advanced Large Language Models with LLMSuite. arXiv preprint arXiv:2407.12036. https://arxiv.org/abs/2407.12036
-
 Roffo, G., Biffi, C., Salvagnini, P., & Cherubini, A. (2024). Feature Selection Gates with Gradient Routing for Endoscopic Image Computing. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 339-349). Springer.
+
+Roffo, G. (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention. arXiv preprint arXiv:2507.14560.
+
+Roffo, G. (2025). A Survey of Large Language Models: Foundations and Future Directions.
 
 ## Related Publications
 
