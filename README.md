@@ -195,23 +195,25 @@ If you use this tutorial in your research or find it helpful, please cite the fo
   author = {Roffo, Giorgio},
   title = {Timeline of Key Developments in Affinity-Based Attention},
   year = {2025},
-  note = {arXiv preprint},
-  url = {https://arxiv.org/abs/[to be added]}
+  eprint = {arXiv preprint},
+  url = {https://arxiv.org/abs/[arXiv ID]}
 }
 
 @misc{roffo2025survey,
   author = {Roffo, Giorgio},
   title = {A Survey of Large Language Models: Foundations and Future Directions},
   year = {2025},
-  note = {arXiv preprint},
-  url = {https://arxiv.org/abs/[to be added]}
+  eprint = {arXiv preprint},
+  url = {https://arxiv.org/abs/[arXiv ID]}
 }
 
 @article{roffo2025origin,
   author = {Roffo, Giorgio},
   title = {The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention},
   year = {2025},
-  journal = {arXiv preprint arXiv:2507.14560},
+  eprint = {2507.14560},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.LG},
   url = {https://arxiv.org/abs/2507.14560}
 }
 
@@ -219,22 +221,34 @@ If you use this tutorial in your research or find it helpful, please cite the fo
   author = {Roffo, Giorgio},
   title = {Exploring Advanced Large Language Models with LLMSuite},
   year = {2024},
-  journal = {arXiv preprint arXiv:2407.12036},
+  eprint = {2407.12036},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.LG},
   url = {https://arxiv.org/abs/2407.12036}
 }
 ```
+
+**Text citations:**
+
+Roffo, G. (2025). Timeline of Key Developments in Affinity-Based Attention. arXiv preprint. https://arxiv.org/abs/[arXiv ID]
+
+Roffo, G. (2025). A Survey of Large Language Models: Foundations and Future Directions. arXiv preprint. https://arxiv.org/abs/[arXiv ID]
+
+Roffo, G. (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention. arXiv preprint arXiv:2507.14560. https://arxiv.org/abs/2507.14560
+
+Roffo, G. (2024). Exploring Advanced Large Language Models with LLMSuite. arXiv preprint arXiv:2407.12036. https://arxiv.org/abs/2407.12036
 
 ## Related Publications
 
 This tutorial is based on foundational research in attention mechanisms and transformers. We strongly recommend citing these papers:
 
-1. **Roffo, G.** (2025). Timeline of Key Developments in Affinity-Based Attention. arXiv preprint. https://arxiv.org/abs/[to be added]
+1. **Roffo, G.** (2025). Timeline of Key Developments in Affinity-Based Attention. arXiv preprint. https://arxiv.org/abs/[arXiv ID]
 
-2. **Roffo, G.** (2025). A Survey of Large Language Models: Foundations and Future Directions. arXiv preprint. https://arxiv.org/abs/[to be added]
+2. **Roffo, G.** (2025). A Survey of Large Language Models: Foundations and Future Directions. arXiv preprint. https://arxiv.org/abs/[arXiv ID]
 
-3. **Roffo, G.** (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention. arXiv preprint arXiv:2507.14560.
+3. **Roffo, G.** (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention. arXiv preprint arXiv:2507.14560. https://arxiv.org/abs/2507.14560
 
-4. **Roffo, G.** (2024). Exploring Advanced Large Language Models with LLMSuite. arXiv preprint arXiv:2407.12036.
+4. **Roffo, G.** (2024). Exploring Advanced Large Language Models with LLMSuite. arXiv preprint arXiv:2407.12036. https://arxiv.org/abs/2407.12036
 
 ## Learning Objectives
 
