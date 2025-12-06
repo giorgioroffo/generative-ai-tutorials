@@ -38,6 +38,10 @@ For foundational work on attention mechanisms and transformers:
 [4] Roffo, G. (2024). Exploring Advanced Large Language Models with LLMSuite.
     arXiv preprint arXiv:2407.12036. https://arxiv.org/abs/2407.12036
 
+[5] Roffo, G., Biffi, C., Salvagnini, P., & Cherubini, A. (2024). Feature Selection Gates 
+    with Gradient Routing for Endoscopic Image Computing. In International Conference on 
+    Medical Image Computing and Computer-Assisted Intervention (pp. 339-349). Springer.
+
 For the models used:
 - Llama 3.1: Meta AI (2024). Llama 3.1 Model Card.
 - Phi-4: Microsoft (2024). Phi-4 Technical Report.

@@ -207,6 +207,15 @@ If you use this tutorial in your research or find it helpful, please cite the fo
   url = {https://arxiv.org/abs/[arXiv ID]}
 }
 
+@inproceedings{roffo2024feature,
+  title = {Feature Selection Gates with Gradient Routing for Endoscopic Image Computing},
+  author = {Roffo, Giorgio and Biffi, Carlo and Salvagnini, Pietro and Cherubini, Andrea},
+  booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages = {339--349},
+  year = {2024},
+  organization = {Springer}
+}
+
 @article{roffo2025origin,
   author = {Roffo, Giorgio},
   title = {The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention},
@@ -238,6 +247,8 @@ Roffo, G. (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Fe
 
 Roffo, G. (2024). Exploring Advanced Large Language Models with LLMSuite. arXiv preprint arXiv:2407.12036. https://arxiv.org/abs/2407.12036
 
+Roffo, G., Biffi, C., Salvagnini, P., & Cherubini, A. (2024). Feature Selection Gates with Gradient Routing for Endoscopic Image Computing. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 339-349). Springer.
+
 ## Related Publications
 
 This tutorial is based on foundational research in attention mechanisms and transformers. We strongly recommend citing these papers:
@@ -249,6 +260,8 @@ This tutorial is based on foundational research in attention mechanisms and tran
 3. **Roffo, G.** (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention. arXiv preprint arXiv:2507.14560. https://arxiv.org/abs/2507.14560
 
 4. **Roffo, G.** (2024). Exploring Advanced Large Language Models with LLMSuite. arXiv preprint arXiv:2407.12036. https://arxiv.org/abs/2407.12036
+
+5. **Roffo, G., Biffi, C., Salvagnini, P., & Cherubini, A.** (2024). Feature Selection Gates with Gradient Routing for Endoscopic Image Computing. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 339-349). Springer.
 
 ## Learning Objectives
 
