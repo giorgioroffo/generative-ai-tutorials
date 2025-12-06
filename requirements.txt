@@ -1,0 +1,23 @@
+# Core dependencies
+datasets==3.6.0
+transformers==4.56.2
+diffusers
+torch
+torchvision
+torchaudio
+
+# Audio processing
+soundfile
+
+# Image processing
+pillow
+
+# HuggingFace integration
+huggingface_hub
+accelerate
+sentencepiece
+sacremoses
+
+# Environment variables
+python-dotenv
+
