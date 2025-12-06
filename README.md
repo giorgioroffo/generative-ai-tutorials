@@ -191,22 +191,6 @@ Different models use different tokenizers because:
 If you use this tutorial in your research or find it helpful, please cite the foundational papers:
 
 ```bibtex
-@misc{roffo2025timeline,
-  author = {Roffo, Giorgio},
-  title = {Timeline of Key Developments in Affinity-Based Attention},
-  year = {2025},
-  eprint = {arXiv preprint},
-  url = {https://arxiv.org/abs/[arXiv ID]}
-}
-
-@misc{roffo2025survey,
-  author = {Roffo, Giorgio},
-  title = {A Survey of Large Language Models: Foundations and Future Directions},
-  year = {2025},
-  eprint = {arXiv preprint},
-  url = {https://arxiv.org/abs/[arXiv ID]}
-}
-
 @inproceedings{roffo2024feature,
   title = {Feature Selection Gates with Gradient Routing for Endoscopic Image Computing},
   author = {Roffo, Giorgio and Biffi, Carlo and Salvagnini, Pietro and Cherubini, Andrea},
@@ -217,23 +201,16 @@ If you use this tutorial in your research or find it helpful, please cite the fo
 }
 
 @article{roffo2025origin,
-  author = {Roffo, Giorgio},
   title = {The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention},
-  year = {2025},
-  eprint = {2507.14560},
-  archivePrefix = {arXiv},
-  primaryClass = {cs.LG},
-  url = {https://arxiv.org/abs/2507.14560}
+  author = {Roffo, Giorgio},
+  journal = {arXiv preprint arXiv:2507.14560},
+  year = {2025}
 }
 
-@article{roffo2024llmsuite,
+@article{roffo2025survey,
+  title = {A Survey of Large Language Models: Foundations and Future Directions},
   author = {Roffo, Giorgio},
-  title = {Exploring Advanced Large Language Models with LLMSuite},
-  year = {2024},
-  eprint = {2407.12036},
-  archivePrefix = {arXiv},
-  primaryClass = {cs.CL},
-  url = {https://arxiv.org/abs/2407.12036}
+  year = {2025}
 }
 ```
 
