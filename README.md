@@ -253,15 +253,11 @@ Roffo, G., Biffi, C., Salvagnini, P., & Cherubini, A. (2024). Feature Selection 
 
 This tutorial is based on foundational research in attention mechanisms and transformers. We strongly recommend citing these papers:
 
-1. **Roffo, G.** (2025). Timeline of Key Developments in Affinity-Based Attention. arXiv preprint. https://arxiv.org/abs/[arXiv ID]
+1. **Roffo, G., Biffi, C., Salvagnini, P., & Cherubini, A.** (2024). Feature Selection Gates with Gradient Routing for Endoscopic Image Computing. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 339-349). Springer.
 
-2. **Roffo, G.** (2025). A Survey of Large Language Models: Foundations and Future Directions. arXiv preprint. https://arxiv.org/abs/[arXiv ID]
+2. **Roffo, G.** (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention. arXiv preprint arXiv:2507.14560.
 
-3. **Roffo, G.** (2025). The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention. arXiv preprint arXiv:2507.14560. https://arxiv.org/abs/2507.14560
-
-4. **Roffo, G.** (2024). Exploring Advanced Large Language Models with LLMSuite. arXiv preprint arXiv:2407.12036. https://arxiv.org/abs/2407.12036
-
-5. **Roffo, G., Biffi, C., Salvagnini, P., & Cherubini, A.** (2024). Feature Selection Gates with Gradient Routing for Endoscopic Image Computing. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 339-349). Springer.
+3. **Roffo, G.** (2025). A Survey of Large Language Models: Foundations and Future Directions.
 
 ## Learning Objectives
 
