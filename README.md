@@ -188,14 +188,39 @@ Different models use different tokenizers because:
 
 ## Citation
 
-If you use this tutorial in your research or find it helpful, please cite:
+If you use this tutorial in your research or find it helpful, please cite the foundational papers:
 
 ```bibtex
-@misc{roffo2025tokenizercomparison,
+@misc{roffo2025timeline,
   author = {Roffo, Giorgio},
-  title = {Tokenizer Comparison Tutorial},
-  year = {2025-2026},
-  url = {https://github.com/giorgioroffo/generative-ai-tutorials}
+  title = {Timeline of Key Developments in Affinity-Based Attention},
+  year = {2025},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/[to be added]}
+}
+
+@misc{roffo2025survey,
+  author = {Roffo, Giorgio},
+  title = {A Survey of Large Language Models: Foundations and Future Directions},
+  year = {2025},
+  note = {arXiv preprint},
+  url = {https://arxiv.org/abs/[to be added]}
+}
+
+@article{roffo2025origin,
+  author = {Roffo, Giorgio},
+  title = {The Origin of Self-Attention: Pairwise Affinity Matrices in Feature Selection and the Emergence of Self-Attention},
+  year = {2025},
+  journal = {arXiv preprint arXiv:2507.14560},
+  url = {https://arxiv.org/abs/2507.14560}
+}
+
+@article{roffo2024llmsuite,
+  author = {Roffo, Giorgio},
+  title = {Exploring Advanced Large Language Models with LLMSuite},
+  year = {2024},
+  journal = {arXiv preprint arXiv:2407.12036},
+  url = {https://arxiv.org/abs/2407.12036}
 }
 ```
 
